@@ -47,3 +47,5 @@ pip install opencv-python-headless
 
 Matplotlib: Matplotlib is useful for visualizing data and model performance, aiding in the analysis and interpretation of results.
 pip install matplotlib
+
+Download Dataset of kaggle mnist 784 for digit detection
